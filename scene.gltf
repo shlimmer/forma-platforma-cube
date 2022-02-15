@@ -291,19 +291,19 @@
   ],
   "images": [
     {
-      "uri": "textures/EnvironmentAmbientLight_baseColor.png"
+      "uri": "EnvironmentAmbientLight_baseColor.png"
     },
     {
-      "uri": "textures/BLACK_metallicRoughness.png"
+      "uri": "BLACK_metallicRoughness.png"
     },
     {
-      "uri": "textures/BLACK_baseColor.jpeg"
+      "uri": "BLACK_baseColor.jpeg"
     },
     {
-      "uri": "textures/PATTERN_metallicRoughness.png"
+      "uri": "PATTERN_metallicRoughness.png"
     },
     {
-      "uri": "textures/PATTERN_baseColor.jpeg"
+      "uri": "PATTERN_baseColor.jpeg"
     }
   ],
   "materials": [
